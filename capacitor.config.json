@@ -1,0 +1,9 @@
+{
+  "appId": "com.dionatas.planilhavacinacao",
+  "appName": "Planilha de Vacinação",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  }
+}
